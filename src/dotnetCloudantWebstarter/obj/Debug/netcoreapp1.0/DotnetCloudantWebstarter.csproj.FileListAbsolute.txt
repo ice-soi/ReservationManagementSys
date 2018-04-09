@@ -1,0 +1,11 @@
+G:\sorce\ReservationManagementSys\src\DotnetCloudantWebstarter\bin\Debug\netcoreapp1.0\DotnetCloudantWebstarter.deps.json
+G:\sorce\ReservationManagementSys\src\DotnetCloudantWebstarter\bin\Debug\netcoreapp1.0\DotnetCloudantWebstarter.runtimeconfig.json
+G:\sorce\ReservationManagementSys\src\DotnetCloudantWebstarter\bin\Debug\netcoreapp1.0\DotnetCloudantWebstarter.runtimeconfig.dev.json
+G:\sorce\ReservationManagementSys\src\DotnetCloudantWebstarter\bin\Debug\netcoreapp1.0\DotnetCloudantWebstarter.dll
+G:\sorce\ReservationManagementSys\src\DotnetCloudantWebstarter\bin\Debug\netcoreapp1.0\DotnetCloudantWebstarter.pdb
+G:\sorce\ReservationManagementSys\src\DotnetCloudantWebstarter\obj\Debug\netcoreapp1.0\DotnetCloudantWebstarter.csprojResolveAssemblyReference.cache
+G:\sorce\ReservationManagementSys\src\DotnetCloudantWebstarter\obj\Debug\netcoreapp1.0\DotnetCloudantWebstarter.csproj.CoreCompileInputs.cache
+G:\sorce\ReservationManagementSys\src\DotnetCloudantWebstarter\obj\Debug\netcoreapp1.0\DotnetCloudantWebstarter.AssemblyInfoInputs.cache
+G:\sorce\ReservationManagementSys\src\DotnetCloudantWebstarter\obj\Debug\netcoreapp1.0\DotnetCloudantWebstarter.AssemblyInfo.cs
+G:\sorce\ReservationManagementSys\src\DotnetCloudantWebstarter\obj\Debug\netcoreapp1.0\DotnetCloudantWebstarter.dll
+G:\sorce\ReservationManagementSys\src\DotnetCloudantWebstarter\obj\Debug\netcoreapp1.0\DotnetCloudantWebstarter.pdb

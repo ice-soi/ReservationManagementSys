@@ -1,0 +1,10 @@
+applications:
+- path: .
+  memory: 512M
+  instances: 1
+  domain: au-syd.mybluemix.net
+  name: ReservationManagementSys
+  host: ReservationManagementSys
+  disk_quota: 1024M
+  services:
+  - ReservationManagementSys-cloudantNoSQLDB
