@@ -1,17 +1,20 @@
-# ASP.NET Core Cloudant Sample
+# 予定管理アプリケーション
+カレンダー形式の予定入力管理システムです。  
 
-This application demonstrates how to use the Bluemix Cloudant NoSQL DB Service in an ASP.NET Core application.
+## 開発言語
+ - C#
 
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/IBM-Bluemix/aspnet-core-cloudant)
+## 概要
+ - IBMCloudを使っています。
+ - DBはNoSQLDBを使っています。
+ - 画面はSPAで構成しています。
 
-## Run the app locally
-
-1. Install ASP.NET Core and the Dotnet CLI by following the [Getting Started][] instructions
-+ Clone this app
-+ cd into the app directory and then `src/dotnetCloudantWebstarter`
-+ Copy the value for the VCAP_SERVICES envirionment variable from the application running in Bluemix and paste it in the vcap-local.json file
-+ Run `dotnet restore`
-+ Run `dotnet run`
-+ Access the running app in a browser at http://localhost:56123
-
-[Getting Started]: http://docs.asp.net/en/latest/getting-started/index.html
+## 画面
+　1. アクセスすると当日を基準にしたカレンダーを表示します。  
+<img src="https://github.com/ice-soi/ReservationManagementSys/blob/picture/month.jpg" alt="month" title="month" width="450" height="300">  
+　2. スクロールで月、週、日、入力画面へと変わります。
+<img src="https://github.com/ice-soi/ReservationManagementSys/blob/picture/week.jpg" alt="week" title="week" width="450" height="300">  
+<img src="https://github.com/ice-soi/ReservationManagementSys/blob/picture/day.jpg" alt="day" title="day" width="450" height="300">  
+<img src="https://github.com/ice-soi/ReservationManagementSys/blob/picture/input.jpg" alt="input" title="input" width="450" height="300">  
+　3. 既にある予定をクリックして内容を更新できます。  
+<img src="https://github.com/ice-soi/ReservationManagementSys/blob/picture/update.jpg" alt="update" title="update" width="450" height="300">  
