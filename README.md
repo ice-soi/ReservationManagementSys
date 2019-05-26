@@ -1,20 +1,20 @@
-# �\��Ǘ��A�v���P�[�V����
-�J�����_�[�`���̗\����͊Ǘ��V�X�e���ł��B  
+# 予定管理アプリケーション
+カレンダー形式の予定入力管理システムです。  
 
-## �J������
+## 開発言語
  - C#
 
-## �T�v
- - IBMCloud���g���Ă��܂��B
- - DB��NoSQLDB���g���Ă��܂��B
- - ��ʂ�SPA�ō\�����Ă��܂��B
+## 概要
+ - IBMCloudを使っています。
+ - DBはNoSQLDBを使っています。
+ - 画面はSPAで構成しています。
 
-## ���
-�@1. �A�N�Z�X����Ɠ�������ɂ����J�����_�[��\�����܂��B  
-<img src="https://github.com/ice-soi/ReservationManagementSys/blob/picture/month.jpg" alt="month" title="month" width="450" height="300">  
-�@2. �X�N���[���Ō��A�T�A���A���͉�ʂւƕς��܂��B
-<img src="https://github.com/ice-soi/ReservationManagementSys/blob/picture/week.jpg" alt="week" title="week" width="450" height="300">  
+## 画面
+　1. アクセスすると当日を基準にしたカレンダーを表示します。  
+<img src="https://github.com/ice-soi/ReservationManagementSys/blob/picture/month.jpg" alt="month" title="month" width="450" height="300">   
+　2. スクロールで月、週、日、入力画面へと変わります。  
+<img src="https://github.com/ice-soi/ReservationManagementSys/blob/picture/week.jpg" alt="week" title="week" width="450" height="300">   
 <img src="https://github.com/ice-soi/ReservationManagementSys/blob/picture/day.jpg" alt="day" title="day" width="450" height="300">  
-<img src="https://github.com/ice-soi/ReservationManagementSys/blob/picture/input.jpg" alt="input" title="input" width="450" height="300">  
-�@3. ���ɂ���\����N���b�N���ē��e���X�V�ł��܂��B  
+<img src="https://github.com/ice-soi/ReservationManagementSys/blob/picture/input.jpg" alt="input" title="input" width="450" height="300">   
+　3. 既にある予定をクリックして内容を更新できます。  
 <img src="https://github.com/ice-soi/ReservationManagementSys/blob/picture/update.jpg" alt="update" title="update" width="450" height="300">  
